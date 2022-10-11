@@ -1,1 +1,1 @@
-# mobile-people-counting-system
+# Mobile People Counting System
